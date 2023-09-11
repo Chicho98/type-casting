@@ -1,0 +1,15 @@
+E:\New folder (6)\type casting\type casting\bin\Debug\net6.0\type casting.exe
+E:\New folder (6)\type casting\type casting\bin\Debug\net6.0\type casting.deps.json
+E:\New folder (6)\type casting\type casting\bin\Debug\net6.0\type casting.runtimeconfig.json
+E:\New folder (6)\type casting\type casting\bin\Debug\net6.0\type casting.dll
+E:\New folder (6)\type casting\type casting\bin\Debug\net6.0\type casting.pdb
+E:\New folder (6)\type casting\type casting\obj\Debug\net6.0\type casting.csproj.AssemblyReference.cache
+E:\New folder (6)\type casting\type casting\obj\Debug\net6.0\type casting.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder (6)\type casting\type casting\obj\Debug\net6.0\type casting.AssemblyInfoInputs.cache
+E:\New folder (6)\type casting\type casting\obj\Debug\net6.0\type casting.AssemblyInfo.cs
+E:\New folder (6)\type casting\type casting\obj\Debug\net6.0\type casting.csproj.CoreCompileInputs.cache
+E:\New folder (6)\type casting\type casting\obj\Debug\net6.0\type casting.dll
+E:\New folder (6)\type casting\type casting\obj\Debug\net6.0\refint\type casting.dll
+E:\New folder (6)\type casting\type casting\obj\Debug\net6.0\type casting.pdb
+E:\New folder (6)\type casting\type casting\obj\Debug\net6.0\type casting.genruntimeconfig.cache
+E:\New folder (6)\type casting\type casting\obj\Debug\net6.0\ref\type casting.dll
